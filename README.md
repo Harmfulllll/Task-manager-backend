@@ -14,7 +14,7 @@ Task Manager is a backend application built with Node.js, Express.js, and MongoD
 - **Authorization:** Middleware to ensure that only authenticated users can access certain routes and that users can only manipulate their own tasks.
 - **RESTful API:** Well-defined RESTful API endpoints for seamless interaction with the backend.
 
-### Prerequisites
+## Prerequisites
 
 <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="300"/>
 <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" width="300"/>
