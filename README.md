@@ -1,5 +1,6 @@
 # Task-manager-backend
-Backend in node and express for a task manager
+Task Manager is a backend application built with Node.js, Express.js, and MongoDB that allows users to manage their tasks efficiently. Users can register, log in, create tasks, update task details, mark tasks as completed, delete tasks, and perform various other operations related to task management.
+
 
 ## Features
 
@@ -31,6 +32,7 @@ Backend in node and express for a task manager
 3.Create a .env file in the root directory and add the necessary values according to the code
 
 4.Start the server
+`npm run start`
 
 Contact
 Tanvir Hassan Joy - [Github](https://github.com/Harmfulllll)
